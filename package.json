@@ -1,15 +1,11 @@
 {
-  "name": "afkbot",
+  "name": "welcomer",
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "mineflayer": "latest",
-    "minecraft-protocol": "latest",
-    "minecraft-data": "latest",
-    "prismarine-physics": "latest",
-    "vec3": "latest"
+    "mineflayer": "^4.17.0"
   }
 }
