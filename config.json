@@ -1,6 +1,6 @@
 {
-  "serverHost": "RecapsOG.aternos.me",
-  "serverPort": 21778,
+  "serverHost": "OG-Miners.play.hosting",
+  "serverPort": 25565,
   "botUsername": "Welcomer",
   "botChunk": 1
 }
