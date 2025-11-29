@@ -1,6 +1,6 @@
 {
-  "serverHost": "OG-Miners.play.hosting",
-  "serverPort": 25565,
+  "serverHost": "FrindSMPP.aternos.me",
+  "serverPort": 21976,
   "botUsername": "Welcomer",
   "botChunk": 1
 }
